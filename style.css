@@ -1,0 +1,142 @@
+*{
+    font-family: 'Itim', cursive;
+    padding: 0px;
+    margin: 0px;
+}
+
+div .container1{
+    font-family: 'Lato', sans-serif;
+}
+
+.container1 div .row, .row{
+    width: 100%;
+}
+
+.container1{
+    padding: 0px;
+    margin: 0px;
+}
+
+.notice{
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 3px;
+    background: #151818;
+    color: #fff;
+}
+
+header{
+    text-align: center;
+}
+
+.head{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+header a{
+    text-decoration: none;
+    color: #434343;
+}
+
+header a:hover{
+    text-decoration: none;
+    color: #9d9d9d;
+    transition: 0.8s;
+}
+
+header .link{
+    text-align: right;
+    padding-right: 10px;
+}
+
+nav{
+    text-align: center;
+}
+
+div .nav{
+    background-image: url("img/straw.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 20px;
+    padding-bottom: 500px;
+}
+
+div .nav div{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+nav button{
+    padding: 8px 12px 8px 12px;
+    background-color: white;
+    border: 2px #ffffff solid;
+    border-radius: 4px;
+}
+
+nav button:hover{
+    background-color: #e0e0e0;
+    border: 2px #e0e0e0 solid;
+}
+
+nav a{
+    color: #000;
+    text-decoration: none;
+}
+
+nav a:hover{
+    text-decoration: none;
+    color: #000;
+}
+
+div .text{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+
+div .img img{
+    width: 100%;
+    height: auto;
+    padding: 0px 15px 0px 15px
+}
+
+div .img4 img{
+    width: 100%;
+    height: auto;
+    padding: 15px 0px 15px 0px;
+}
+
+div .img-4{
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+div .img-b{
+    padding-bottom: 15px;
+}
+
+footer{
+    background-color: #151818;
+    color: #fff;
+    padding-top: 80px;
+    padding-bottom: 200px;
+}
+
+div .list{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 15px;
+}
+
+div li{
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left: 4px;
+    list-style-type: none;
+    text-decoration: none;
+}
